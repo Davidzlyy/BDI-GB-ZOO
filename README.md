@@ -2,7 +2,7 @@
  🚀 Project: My Awesome Project
 
 Developer: [David Hernandez]  
-Src Directory: /home/david/Downloads/Git/Github/1034777054-UP_DavidOrlandoHernandez/BDI-GB-ZOO 
+Src Directory: src/Git/Github/1034777054-UP_DavidOrlandoHernandez/BDI-GB-ZOO 
 Created: 23-octubre- 2024  
 Last Updated: October 2024 ✨  
 
